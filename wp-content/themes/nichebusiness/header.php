@@ -38,7 +38,7 @@
                     <li><a href="#offer" class="flex py-[30px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Our Offer</a></li>
                     <li><a href="#" class="flex py-[30px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">News</a></li>
                     <li><a href="#contact" class="flex py-[30px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Contact Us</a></li>
-                    <li><a href="#contact" class="block w-full h-full bg-green font-bold text-white cursor-pointer p-[30px]">Schedule an Appointment</a></li>
+                    <li><a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="block w-full h-full bg-green font-bold text-white cursor-pointer p-[30px]">Schedule an Appointment</a></li>
                 </ul>
             </div>
             <div class="mobile-nav flex items-center lg:hidden">
@@ -62,7 +62,7 @@
         <li><a href="#offer" class="flex py-[15px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Our Offer</a></li>
         <li><a href="#" class="flex py-[15px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">News</a></li>
         <li><a href="#contact" class="flex py-[15px] px-[15px] lg:px-[20px] font-montserrat font-bold text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Contact Us</a></li>
-        <li><a href="#contact" class="block w-full h-full bg-green font-bold text-white cursor-pointer py-[30px] px-[20px] text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Schedule an Appointment</a></li>
+        <li><a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="block w-full h-full bg-green font-bold text-white cursor-pointer py-[30px] px-[20px] text-[14px] md:text-[16px] lg:text-[18px] xl:text-[20px]">Schedule an Appointment</a></li>
     </ul>
 </section>
 
