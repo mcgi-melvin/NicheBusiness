@@ -510,7 +510,7 @@
                 <div class="workshop-list swiper overflow-hidden">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
+                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/wp-content/themes/nichebusiness/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
                                 <div class="workshop-header flex justify-between">
                                     <div class="date bg-yellow p-[20px] rounded-br-[30px]">
                                         April 10 th
@@ -531,7 +531,7 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/assets/images/workshop-dubbo.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
+                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/wp-content/themes/nichebusiness/assets/images/workshop-dubbo.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
                                 <div class="workshop-header flex justify-between">
                                     <div class="date bg-yellow p-[20px] rounded-br-[30px]">
                                         April 11 th
@@ -552,7 +552,7 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
+                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/wp-content/themes/nichebusiness/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
                                 <div class="workshop-header flex justify-between">
                                     <div class="date bg-yellow p-[20px] rounded-br-[30px]">
                                         April 12 th
@@ -594,7 +594,7 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
+                            <div class="workshop-item flex flex-col justify-between w-[320px] lg:w-[400px] xl:w-[500px] h-[500px] bg-[url(/wp-content/themes/nichebusiness/assets/images/workshop-bathurst.jpg)] bg-cover bg-white rounded-[30px] overflow-hidden">
                                 <div class="workshop-header flex justify-between">
                                     <div class="date bg-yellow p-[20px] rounded-br-[30px]">
                                         May 21 th
