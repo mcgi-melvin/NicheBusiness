@@ -1,3 +1,5 @@
+<?php get_header() ?>
+
 <section id="intro" class="px-[20px] py-[20px] hidden">
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex justify-center items-center">
@@ -852,3 +854,6 @@
         </div>
     </div>
 </section>
+
+
+<?php get_footer(); ?>
