@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"/>
-    <link rel="stylesheet" href="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/css/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/nichebusiness/assets/css/style.css">
 
 
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
@@ -28,7 +28,7 @@
 <header id="header" class="p-[20px] w-full fixed top-0 z-10">
     <div class="flex gap-[30px] md:gap-0 justify-between">
         <div class="logo bg-white shadow px-[20px] md:px-[30px] py-[20px] rounded-br-[30px]">
-            <img class="max-h-[50px] md:max-h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/logo.png" alt="Niche Business Logo" />
+            <img class="max-h-[50px] md:max-h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/logo.png" alt="Niche Business Logo" />
         </div>
         <div class="navigation bg-white shadow rounded-bl-[30px] overflow-hidden h-full">
             <div class="hidden lg:block">
