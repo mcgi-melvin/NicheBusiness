@@ -3,7 +3,7 @@
 <section id="intro" class="px-[20px] py-[20px] hidden">
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex justify-center items-center">
-            <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/long-text-logo.png" alt="Niche Business Logo" />
+            <img src="/wp-content/themes/nichebusiness/assets/images/long-text-logo.png" alt="Niche Business Logo" />
         </div>
     </div>
 </section>
@@ -115,7 +115,7 @@
                         <h3 class="font-montserrat font-bold text-white text-[35px]">How do we achieve this status of being <span class="text-yellow">World's #1</span> ?</h3>
                         <div class="flex flex-col gap-[30px]">
                             <div>
-                                <img class="max-h-[170px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/achieve-logo.png" alt="Achieve Logo" />
+                                <img class="max-h-[170px]" src="/wp-content/themes/nichebusiness/assets/images/achieve-logo.png" alt="Achieve Logo" />
                             </div>
                             <p class="font-montserrat font-bold text-[#A4A4A4]">Our passion is for Small &amp; Medium businesses – we truly believe these business owners have unique story &amp; passion for what they do and it needs to be told.</p>
                             <div class="button-container">
@@ -170,21 +170,21 @@
             <div class="section-body">
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-[50px]">
                     <div class="secret-item flex flex-col gap-[20px]">
-                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/secret-image-1.png" alt="Secret Image 1" />
+                        <img src="/wp-content/themes/nichebusiness/assets/images/secret-image-1.png" alt="Secret Image 1" />
                         <h4 class="font-montserrat font-bold text-dark-blue text-[25px]">Passion</h4>
                         <div class="description">
                             We help businesses become leaders with professional, profitable capabilities.
                         </div>
                     </div>
                     <div class="secret-item flex flex-col gap-[20px] pt-[70px]">
-                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/secret-image-2.png" alt="Secret Image 2" />
+                        <img src="/wp-content/themes/nichebusiness/assets/images/secret-image-2.png" alt="Secret Image 2" />
                         <h4 class="font-montserrat font-bold text-dark-blue text-[25px]">Diligence</h4>
                         <div class="description">
                             We vet businesses thoroughly to ensure their offerings meet our quality standards.
                         </div>
                     </div>
                     <div class="secret-item flex flex-col gap-[20px]">
-                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/secret-image-3.png" alt="Secret Image 3" />
+                        <img src="/wp-content/themes/nichebusiness/assets/images/secret-image-3.png" alt="Secret Image 3" />
                         <h4 class="font-montserrat font-bold text-dark-blue text-[25px]">Quality</h4>
                         <div class="description">
                             We also ensure growth opportunities provide genuine value for businesses.
@@ -210,7 +210,7 @@
                 <div class="offers flex flex-col gap-[20px] w-full">
                     <div class="item flex flex-wrap sm:flex-nowrap items-center gap-[20px]">
                         <div class="item-image w-full sm:w-[300px]">
-                            <img class="w-full" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/offer-image-1.png" alt="Offer Image 1" />
+                            <img class="w-full" src="/wp-content/themes/nichebusiness/assets/images/offer-image-1.png" alt="Offer Image 1" />
                         </div>
                         <div class="item-content flex flex-col gap-[20px] w-full sm:w-[calc(100%-300px)]">
                             <h5 class="font-montserrat font-bold">Does your business suit Niche focus sales growth?</h5>
@@ -238,7 +238,7 @@
                     </div>
                     <div class="item flex flex-wrap sm:flex-nowrap items-center gap-[20px] w-full">
                         <div class="item-image w-full w-full sm:w-[300px]">
-                            <img class="w-full" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/offer-image-2.png" alt="Offer Image 2" />
+                            <img class="w-full" src="/wp-content/themes/nichebusiness/assets/images/offer-image-2.png" alt="Offer Image 2" />
                         </div>
                         <div class="item-content flex flex-col gap-[20px] w-full sm:w-[calc(100%-300px)]">
                             <h5 class="font-montserrat font-bold">Capabilities</h5>
@@ -282,7 +282,7 @@
                 <div class="box flex flex-col rounded-[30px] overflow-hidden w-full">
                     <div class="item bg-[#efefef] flex items-center gap-[20px] p-[50px] w-full">
                         <div class="item-image w-[120px]">
-                            <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/fee-icon-1.png" alt="Fee Icon 1" />
+                            <img src="/wp-content/themes/nichebusiness/assets/images/fee-icon-1.png" alt="Fee Icon 1" />
                         </div>
                         <div class="item-content flex flex-col gap-[20px] w-[calc(100%-120px)]">
                             <h4 class="font-montserrat font-bold">Option 1</h4>
@@ -291,7 +291,7 @@
                     </div>
                     <div class="item bg-[#e8e8e8] flex items-center gap-[20px] p-[50px]">
                         <div class="item-image w-[120px]">
-                            <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/fee-icon-2.png" alt="Fee Icon 1" />
+                            <img src="/wp-content/themes/nichebusiness/assets/images/fee-icon-2.png" alt="Fee Icon 1" />
                         </div>
                         <div class="item-content flex flex-col gap-[20px] w-[calc(100%-120px)]">
                             <h4 class="font-montserrat font-bold">Option 2</h4>
@@ -300,7 +300,7 @@
                     </div>
                     <div class="item bg-[#e0e0e0] flex items-center gap-[20px] p-[50px]">
                         <div class="item-image w-[120px]">
-                            <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/fee-icon-3.png" alt="Fee Icon 1" />
+                            <img src="/wp-content/themes/nichebusiness/assets/images/fee-icon-3.png" alt="Fee Icon 1" />
                         </div>
                         <div class="item-content flex flex-col gap-[20px] w-[calc(100%-120px)]">
                             <h4 class="font-montserrat font-bold">Option 3</h4>
@@ -633,7 +633,7 @@
                     <div class="man-behind flex flex-col gap-[30px]">
                         <div class="basic-info flex items-center flex-col gap-[40px]">
                             <h4 class="font-montserrat font-bold text-green text-[35px]">Peter Kinnaird</h4>
-                            <img class="h-[350px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-peter.png" alt="Peter Kinnaird" />
+                            <img class="h-[350px]" src="/wp-content/themes/nichebusiness/assets/images/member-peter.png" alt="Peter Kinnaird" />
                         </div>
                         <div class="other-info flex flex-col gap-[30px]">
                             <div class="info-item flex flex-col gap-[20px]">
@@ -656,7 +656,7 @@
                             <div class="members flex flex-col gap-[20px] w-full">
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-ari.png" alt="Member Ari" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-ari.png" alt="Member Ari" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">Ari</h5>
@@ -667,7 +667,7 @@
                                 </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-james.png" alt="Member James" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-james.png" alt="Member James" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">James</h5>
@@ -678,7 +678,7 @@
                                 </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-ian.png" alt="Member Ian" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-ian.png" alt="Member Ian" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">Ian</h5>
@@ -689,7 +689,7 @@
                                 </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-usama.png" alt="Member Usama" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-usama.png" alt="Member Usama" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">Usama</h5>
@@ -700,7 +700,7 @@
                                 </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-shirley.png" alt="Member Shirley" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-shirley.png" alt="Member Shirley" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">Shirley</h5>
@@ -711,7 +711,7 @@
                                 </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
-                                        <img src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/member-mike.png" alt="Member Mike" />
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-mike.png" alt="Member Mike" />
                                     </div>
                                     <div class="member-info w-[calc(100%-150px)]">
                                         <h5 class="font-montserrat font-bold text-[25px]">Mike</h5>
@@ -750,34 +750,34 @@
             <div class="partner-slider swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-1.png" alt="Partner Logo 1" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-1.png" alt="Partner Logo 1" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-2.png" alt="Partner Logo 2" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-2.png" alt="Partner Logo 2" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-3.png" alt="Partner Logo 3" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-3.png" alt="Partner Logo 3" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-4.png" alt="Partner Logo 4" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-4.png" alt="Partner Logo 4" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-5.png" alt="Partner Logo 5" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-5.png" alt="Partner Logo 5" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-6.png" alt="Partner Logo 6" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-6.png" alt="Partner Logo 6" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-7.png" alt="Partner Logo 7" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-7.png" alt="Partner Logo 7" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-8.png" alt="Partner Logo 8" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-8.png" alt="Partner Logo 8" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-9.png" alt="Partner Logo 9" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-9.png" alt="Partner Logo 9" />
                     </div>
                     <div class="swiper-slide">
-                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assetstent/themes/nichebusiness/assets/images/partner-logo-10.png" alt="Partner Logo 10" />
+                        <img class="h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/partner-logo-10.png" alt="Partner Logo 10" />
                     </div>
                 </div>
 
