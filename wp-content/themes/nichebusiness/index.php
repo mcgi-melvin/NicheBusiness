@@ -728,7 +728,7 @@
             </div>
             <div class="section-footer flex flex-col gap-[40px]">
                 <div class="button-container flex justify-center">
-                    <a href="javascript:void(0)" class="bg-dark-blue rounded-[30px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
+                    <a href="https://api.leadconnectorhq.com/widget/form/2kkb1WZrkZc9UPwUsEXg" target="_blank" class="bg-dark-blue rounded-[30px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
                         <div class="flex justify-center gap-[10px]">
                             <svg class="w-[20px] fill-yellow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 297.4C611.1 309.9 611.1 330.2 598.6 342.7L470.6 470.7C461.4 479.9 447.7 482.6 435.7 477.6C423.7 472.6 416 460.9 416 448L416 384L80 384C53.5 384 32 362.5 32 336L32 304C32 277.5 53.5 256 80 256L416 256L416 192C416 179.1 423.8 167.4 435.8 162.4C447.8 157.4 461.5 160.2 470.7 169.3L598.7 297.3z"/></svg>
                             <span>Submit your ticket now</span>
@@ -804,10 +804,10 @@
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-[50px]">
                     <div class="form flex flex-col items-center justify-center gap-[30px] w-full py-[100px]">
                         <div>
-                            <button class="flex items-center gap-[10px] bg-dark-blue rounded-[20px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
+                            <a href="https://api.leadconnectorhq.com/widget/form/2kkb1WZrkZc9UPwUsEXg" target="_blank" class="flex items-center gap-[10px] bg-dark-blue rounded-[20px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
                                 <svg class="w-[20px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M112 128C85.5 128 64 149.5 64 176C64 191.1 71.1 205.3 83.2 214.4L291.2 370.4C308.3 383.2 331.7 383.2 348.8 370.4L556.8 214.4C568.9 205.3 576 191.1 576 176C576 149.5 554.5 128 528 128L112 128zM64 260L64 448C64 483.3 92.7 512 128 512L512 512C547.3 512 576 483.3 576 448L576 260L377.6 408.8C343.5 434.4 296.5 434.4 262.4 408.8L64 260z"/></svg>
                                 <span>Send us a message</span>
-                            </button>
+                            </a>
                         </div>
                         <div>
                             <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="flex items-center gap-[10px] bg-green rounded-[20px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
