@@ -12,7 +12,7 @@
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex flex-wrap xl:flex-nowrap flex-col-reverse xl:flex-row gap-[30px] w-full xl:border-l-[5px] border-blue">
             <div class="flex flex-col gap-[30px] text-content w-full max-w-full border-l-[5px] border-yellow pl-[30px]">
-                <p class="font-montserrat text-[22px] md:text-[25px] lg:text-[28px] xl:text-[30px]">Our passion is to help SMALL &amp; MEDIUM business owners unlock their sustainable growth through proven strategies, real personal guidance, and individual tailored solutions designed to improve your businesses performance, profitability, and long-term success.</p>
+                <p class="font-montserrat">Our passion is to help SMALL &amp; MEDIUM business owners unlock their sustainable growth through proven strategies, real personal guidance, and individual tailored solutions designed to improve your businesses performance, profitability, and long-term success.</p>
                 <div class="flex flex-col gap-[10px] list">
                     <p class="flex items-center gap-[10px]">
                         <svg class="w-[20px] fill-green" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
