@@ -1,5 +1,4 @@
     </main>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
-    <script src="/wp-content/themes/nichebusiness/assets/js/script.js"></script>
+    <?php wp_footer(); ?>
 </body>
 </html>

@@ -8,9 +8,38 @@
     </div>
 </section>
 
-<section id="hero" class="px-[20px] pt-[200px] pb-[100px]">
+<section id="hero" class="px-[20px] py-[100px] md:py-[150px] lg:py-[200px] pb-[50px] md:pb-[70px] lg:pb-[100px]">
     <div class="container max-w-[1600px] mx-auto">
-        <div class="flex flex-wrap xl:flex-nowrap flex-col-reverse xl:flex-row gap-[30px] w-full xl:border-l-[5px] border-blue">
+        <div class="box flex md:h-[500px] position-relative px-[30px] md:px-[50px] py-[50px] md:py-[70px] lg:py-[100px] pb-[50px] bg-[#162a55ff] rounded-[30px]">
+            <div class="flex flex-col justify-between gap-[30px] w-full text-center text-white">
+                <div class="content flex flex-col gap-[50px]">
+                    <div class="content-header flex flex-col gap-[20px]">
+                        <h1 class="font-montserrat font-bold"><span class="text-yellow">Your Business, Refined.</span> Built Around What Makes You Unstoppable.</h1>
+                        <div class="description">
+                            Most SMBs lose their edge trying to compete on price or please everyone.
+                            We help you stand out, attract the right customers, and grow with clarity.
+                        </div>
+                    </div>
+                    <div class="button-container">
+                        <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="inline-flex items-center gap-[10px] bg-green rounded-[20px] font-bold text-white fill-white px-[40px] py-[15px] cursor-pointer">
+                            <svg class="w-[20px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M224 64C241.7 64 256 78.3 256 96L256 128L384 128L384 96C384 78.3 398.3 64 416 64C433.7 64 448 78.3 448 96L448 128L480 128C515.3 128 544 156.7 544 192L544 480C544 515.3 515.3 544 480 544L160 544C124.7 544 96 515.3 96 480L96 192C96 156.7 124.7 128 160 128L192 128L192 96C192 78.3 206.3 64 224 64zM160 304L160 336C160 344.8 167.2 352 176 352L208 352C216.8 352 224 344.8 224 336L224 304C224 295.2 216.8 288 208 288L176 288C167.2 288 160 295.2 160 304zM288 304L288 336C288 344.8 295.2 352 304 352L336 352C344.8 352 352 344.8 352 336L352 304C352 295.2 344.8 288 336 288L304 288C295.2 288 288 295.2 288 304zM432 288C423.2 288 416 295.2 416 304L416 336C416 344.8 423.2 352 432 352L464 352C472.8 352 480 344.8 480 336L480 304C480 295.2 472.8 288 464 288L432 288zM160 432L160 464C160 472.8 167.2 480 176 480L208 480C216.8 480 224 472.8 224 464L224 432C224 423.2 216.8 416 208 416L176 416C167.2 416 160 423.2 160 432zM304 416C295.2 416 288 423.2 288 432L288 464C288 472.8 295.2 480 304 480L336 480C344.8 480 352 472.8 352 464L352 432C352 423.2 344.8 416 336 416L304 416zM416 432L416 464C416 472.8 423.2 480 432 480L464 480C472.8 480 480 472.8 480 464L480 432C480 423.2 472.8 416 464 416L432 416C423.2 416 416 423.2 416 432z"/></svg>
+                            <span>Schedule an Appointment</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="action">
+                    <button class="cursor-pointer">
+                        <svg class="w-[50px] fill-yellow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M297.4 598.6C309.9 611.1 330.2 611.1 342.7 598.6L470.7 470.6C483.2 458.1 483.2 437.8 470.7 425.3C458.2 412.8 437.9 412.8 425.4 425.3L352 498.7L352 64C352 46.3 337.7 32 320 32C302.3 32 288 46.3 288 64L288 498.7L214.6 425.3C202.1 412.8 181.8 412.8 169.3 425.3C156.8 437.8 156.8 458.1 169.3 470.6L297.3 598.6z"/></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="intro" class="px-[20px] py-[50px] md:py-[70px] lg:py-[100px]">
+    <div class="container max-w-[1600px] mx-auto">
+        <div class="flex flex-wrap items-center xl:flex-nowrap flex-col-reverse xl:flex-row gap-[30px] w-full xl:border-l-[5px] border-blue">
             <div class="flex flex-col gap-[30px] text-content w-full max-w-full border-l-[5px] border-yellow pl-[30px]">
                 <p class="font-montserrat">Our passion is to help SMALL &amp; MEDIUM business owners unlock their sustainable growth through proven strategies, real personal guidance, and individual tailored solutions designed to improve your businesses performance, profitability, and long-term success.</p>
                 <div class="flex flex-col gap-[10px] list">
@@ -18,19 +47,19 @@
                         <svg class="w-[20px] fill-green" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                             <path d="M530.8 134.1C545.1 144.5 548.3 164.5 537.9 178.8L281.9 530.8C276.4 538.4 267.9 543.1 258.5 543.9C249.1 544.7 240 541.2 233.4 534.6L105.4 406.6C92.9 394.1 92.9 373.8 105.4 361.3C117.9 348.8 138.2 348.8 150.7 361.3L252.2 462.8L486.2 141.1C496.6 126.8 516.6 123.6 530.9 134z"/>
                         </svg>
-                        <span class="text-[20px] md:text-[22px] lg:text-[25px]">Strategic Business Plans developed specifically for your business</span>
+                        <span>Strategic Business Plans developed specifically for your business</span>
                     </p>
                     <p class="flex items-center gap-[10px]">
                         <svg class="w-[20px] fill-green" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                             <path d="M530.8 134.1C545.1 144.5 548.3 164.5 537.9 178.8L281.9 530.8C276.4 538.4 267.9 543.1 258.5 543.9C249.1 544.7 240 541.2 233.4 534.6L105.4 406.6C92.9 394.1 92.9 373.8 105.4 361.3C117.9 348.8 138.2 348.8 150.7 361.3L252.2 462.8L486.2 141.1C496.6 126.8 516.6 123.6 530.9 134z"/>
                         </svg>
-                        <span class="text-[20px] md:text-[22px] lg:text-[25px]">Support given for Performance &amp; Process Improvement</span>
+                        <span>Support given for Performance &amp; Process Improvement</span>
                     </p>
                     <p class="flex items-center gap-[10px]">
                         <svg class="w-[20px] fill-green" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                             <path d="M530.8 134.1C545.1 144.5 548.3 164.5 537.9 178.8L281.9 530.8C276.4 538.4 267.9 543.1 258.5 543.9C249.1 544.7 240 541.2 233.4 534.6L105.4 406.6C92.9 394.1 92.9 373.8 105.4 361.3C117.9 348.8 138.2 348.8 150.7 361.3L252.2 462.8L486.2 141.1C496.6 126.8 516.6 123.6 530.9 134z"/>
                         </svg>
-                        <span class="text-[20px] md:text-[22px] lg:text-[25px]">Insights given to help you have the passion back about your business</span>
+                        <span>Insights given to help you have the passion back about your business</span>
                     </p>
                 </div>
                 <div class="button-container">
@@ -62,12 +91,12 @@
     </div>
 </section>
 
-<section id="problem_solve" class="py-[100px] px-[20px]">
+<section id="problem_solve" class="px-[20px] py-[50px] md:py-[70px] lg:py-[100px]">
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex flex-col gap-[50px] w-full">
             <div class="section-header flex flex-col gap-[30px]">
                 <h2 class="font-montserrat font-bold text-[30px] md:text-[35px] lg:text-[38px] xl:text-[40px] text-center">The Niche Problem <span class="text-green">we solve</span></h2>
-                <div class="description flex flex-col gap-[25px] font-montserrat text-[25px] md:text-[30px] lg:text-[32px] xl:text-[35px]">
+                <div class="description flex flex-col gap-[25px] font-montserrat">
                     <p>Most businesses compete on price, availability, or effort — not clear expertise.</p>
                     <p>Many don’t even know what their true specialised strength is.</p>
                     <p>That’s where we come in.</p>
@@ -80,7 +109,7 @@
                         <div class="number flex items-center justify-center bg-dark-blue w-[70px] lg:w-[100px] h-[70px] lg:h-[100px] rounded-full font-montserrat font-bold text-[35px] md:text-[40px] lg:text-[45px] xl:text-[50px] text-white">
                             1
                         </div>
-                        <div class="text font-montserrat font-bold text-[22px] md:text-[25px] lg:text-[28px] xl:text-[30px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
+                        <div class="text font-montserrat font-bold text-[20px] md:text-[22px] lg:text-[25px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
                             Uncover or create your niche
                         </div>
                     </div>
@@ -88,7 +117,7 @@
                         <div class="number flex items-center justify-center bg-yellow w-[70px] lg:w-[100px] h-[70px] lg:h-[100px] rounded-full font-montserrat font-bold text-[35px] md:text-[40px] lg:text-[45px] xl:text-[50px] text-white">
                             2
                         </div>
-                        <div class="text font-montserrat font-bold text-[22px] md:text-[25px] lg:text-[28px] xl:text-[30px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
+                        <div class="text font-montserrat font-bold text-[20px] md:text-[22px] lg:text-[25px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
                             Specialise your operations, messaging, and positioning
                         </div>
                     </div>
@@ -96,7 +125,7 @@
                         <div class="number flex items-center justify-center bg-green w-[70px] lg:w-[100px] h-[70px] lg:h-[100px] rounded-full font-montserrat font-bold text-[35px] md:text-[40px] lg:text-[45px] xl:text-[50px] text-white">
                             3
                         </div>
-                        <div class="text font-montserrat font-bold text-[22px] md:text-[25px] lg:text-[28px] xl:text-[30px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
+                        <div class="text font-montserrat font-bold text-[20px] md:text-[22px] lg:text-[25px] w-[calc(100%-70px)] lg:w-[calc(100%-100px)]">
                             Become the recognised as the best and most trusted in your local area for your businesses industry
                         </div>
                     </div>
@@ -111,8 +140,8 @@
         <div class="flex flex-col gap-[50px]">
             <div class="grid grid-cols-1 xl:grid-cols-2 w-full bg-white rounded-[30px] overflow-hidden">
                 <div class="achieve-left flex items-center bg-dark-blue py-[70px] px-[50px]">
-                    <div class="flex flex-col gap-[50px]">
-                        <h3 class="font-montserrat font-bold text-white text-[35px]">How do we achieve this status of being <span class="text-yellow">World's #1</span> ?</h3>
+                    <div class="flex flex-col gap-[10px]">
+                        <h3 class="font-montserrat font-bold text-white text-[30px]">How do we achieve this status of being <span class="text-yellow">World's #1</span> ?</h3>
                         <div class="flex flex-col gap-[30px]">
                             <div>
                                 <img class="max-h-[170px]" src="/wp-content/themes/nichebusiness/assets/images/achieve-logo.png" alt="Achieve Logo" />
@@ -127,7 +156,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="achieve-right flex items-center py-[70px] px-[50px] text-[20px] md:text-[22px] lg:text-[25px]">
+                <div class="achieve-right flex items-center py-[50px] lg:py-[70px] px-[30px] lg:px-[50px]">
                     <div class="flex flex-col gap-[20px]">
                         <div class="flex flex-col gap-[20px]">
                             <p>We only take on a <strong class="text-green">very limited number of clients</strong> at a time, so we can give them our full focus of building their business.</p>
@@ -137,13 +166,13 @@
                 </div>
             </div>
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-[50px]">
-                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px]">
+                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px] rounded-[30px]">
                     <h3 class="font-montserrat font-bold">The Philosophy</h3>
                     <p>Leadership isn&#39;t just a title; it’s a combination of deep-rooted knowledge and the drive to execute. As Peter often says:</p>
                     <p class="text-green"><i>&quot;We know what it takes to be a leader and to be respected—our expertise and passion are
                             what take our clients to that same level of excellence.&quot;</i></p>
                 </div>
-                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px]">
+                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px] rounded-[30px]">
                     <h3 class="font-montserrat font-bold">What We Do</h3>
                     <p>We don’t just offer advice; we provide the blueprint for <strong class="text-green">Niche Leadership</strong>. By aligning a company’s unique expertise with a passionate delivery, Peter helps clients:</p>
                     <ul>
@@ -152,7 +181,7 @@
                         <li><strong class="text-blue">Scale with Purpose:</strong> Transform passion into a repeatable, profitable business system.</li>
                     </ul>
                 </div>
-                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px]">
+                <div class="flex flex-col gap-[20px] bg-white shadow-xl p-[30px] lg:p-[50px] rounded-[30px]">
                     <h3 class="font-montserrat font-bold">The Result</h3>
                     <p>Our clients don’t just grow; they evolve. They become the &quot;go-to&quot; names in their industries, backed by the same expertise and passion that Peter has championed throughout his career.</p>
                 </div>
@@ -165,7 +194,7 @@
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex flex-col gap-[50px] w-full">
             <div class="section-header">
-                <h3 class="font-montserrat text-center text-[40px]">What are the secrets that drives us <span class="text-green">so strongly?</span></h3>
+                <h2 class="font-montserrat text-center">What are the secrets that drives us <span class="text-green">so strongly?</span></h2>
             </div>
             <div class="section-body">
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-[50px]">
@@ -497,15 +526,15 @@
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex flex-col gap-[50px]">
             <div class="section-header flex flex-col gap-[50px]">
-                <h3 class="font-montserrat font-bold text-center text-yellow text-[35px]">We hold real workshops -not sales presentations.</h3>
-                <div class="description flex flex-col gap-[20px] text-[20px] md:text-[25px] lg:text-[30px]">
-                    <p>If you are interested you need to come prepared to learn- you will need to have undertaken some homework first – at these workshops - <strong>You WILL leave with a clear understanding of what your business needs to do to become your local area leader in your area of what you sell or provide.</strong></p>
+                <h2 class="font-montserrat font-bold text-center text-yellow">We hold real workshops -not sales presentations.</h2>
+                <div class="description flex flex-col gap-[20px]">
+                    <p>If you are interested you need to come prepared to learn - you will need to have undertaken some homework first – at these workshops - <strong>You WILL leave with a clear understanding of what your business needs to do to become your local area leader in your area of what you sell or provide.</strong></p>
                     <p>Each workshop has a maximum of participants and only 2 from the same industry will be able to attend. <strong class="text-yellow">So in reality you have 1 of only 2 chances to attend.</strong></p>
                 </div>
             </div>
             <div class="section-workshops flex flex-col gap-[50px]">
                 <div class="workshop-header">
-                    <h3 class="text-center text-[35px]">Choose your location and <strong class="text-yellow">book your seat now</strong></h3>
+                    <h3 class="text-center">Choose your location and <strong class="text-yellow">book your seat now</strong></h3>
                 </div>
                 <div class="workshop-list swiper overflow-hidden">
                     <div class="swiper-wrapper">
@@ -523,7 +552,7 @@
                                     <h4 class="font-montserrat text-[30px] text-dark-blue">Bathurst/Orange</h4>
                                 </div>
                                 <div class="workshop-footer flex justify-end p-[10px]">
-                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[30px] py-[15px] px-[40px] cursor-pointer">
+                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[20px] py-[15px] px-[40px] cursor-pointer">
                                         <span>Book Now</span>
                                         <svg class="w-[20px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 342.6C611.1 330.1 611.1 309.8 598.6 297.3L470.6 169.3C458.1 156.8 437.8 156.8 425.3 169.3C412.8 181.8 412.8 202.1 425.3 214.6L498.7 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L498.7 352L425.3 425.4C412.8 437.9 412.8 458.2 425.3 470.7C437.8 483.2 458.1 483.2 470.6 470.7L598.6 342.7z"/></svg>
                                     </a>
@@ -544,7 +573,7 @@
                                     <h4 class="font-montserrat text-[30px] text-dark-blue">Dubbo Region</h4>
                                 </div>
                                 <div class="workshop-footer flex justify-end p-[10px]">
-                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[30px] py-[15px] px-[40px] cursor-pointer">
+                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[20px] py-[15px] px-[40px] cursor-pointer">
                                         <span>Book Now</span>
                                         <svg class="w-[20px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 342.6C611.1 330.1 611.1 309.8 598.6 297.3L470.6 169.3C458.1 156.8 437.8 156.8 425.3 169.3C412.8 181.8 412.8 202.1 425.3 214.6L498.7 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L498.7 352L425.3 425.4C412.8 437.9 412.8 458.2 425.3 470.7C437.8 483.2 458.1 483.2 470.6 470.7L598.6 342.7z"/></svg>
                                     </a>
@@ -565,7 +594,7 @@
                                     <h4 class="font-montserrat text-[30px] text-dark-blue">Tamworth/Armidale</h4>
                                 </div>
                                 <div class="workshop-footer flex justify-end p-[10px]">
-                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[30px] py-[15px] px-[40px] cursor-pointer">
+                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[20px] py-[15px] px-[40px] cursor-pointer">
                                         <span>Book Now</span>
                                         <svg class="w-[20px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 342.6C611.1 330.1 611.1 309.8 598.6 297.3L470.6 169.3C458.1 156.8 437.8 156.8 425.3 169.3C412.8 181.8 412.8 202.1 425.3 214.6L498.7 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L498.7 352L425.3 425.4C412.8 437.9 412.8 458.2 425.3 470.7C437.8 483.2 458.1 483.2 470.6 470.7L598.6 342.7z"/></svg>
                                     </a>
@@ -586,7 +615,7 @@
                                     <h4 class="font-montserrat text-[30px] text-dark-blue">Wagga Wagga</h4>
                                 </div>
                                 <div class="workshop-footer flex justify-end p-[10px]">
-                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[30px] py-[15px] px-[40px] cursor-pointer">
+                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[20px] py-[15px] px-[40px] cursor-pointer">
                                         <span>Book Now</span>
                                         <svg class="w-[20px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 342.6C611.1 330.1 611.1 309.8 598.6 297.3L470.6 169.3C458.1 156.8 437.8 156.8 425.3 169.3C412.8 181.8 412.8 202.1 425.3 214.6L498.7 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L498.7 352L425.3 425.4C412.8 437.9 412.8 458.2 425.3 470.7C437.8 483.2 458.1 483.2 470.6 470.7L598.6 342.7z"/></svg>
                                     </a>
@@ -607,7 +636,7 @@
                                     <h4 class="font-montserrat text-[30px] text-dark-blue">Albury Wodonga</h4>
                                 </div>
                                 <div class="workshop-footer flex justify-end p-[10px]">
-                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[30px] py-[15px] px-[40px] cursor-pointer">
+                                    <a href="https://api.leadconnectorhq.com/widget/booking/PIfBGyZZNRMdgMAa5H7l" target="_blank" class="font-montserrat text-white text-[20px] bg-dark-blue flex items-center gap-[10px] rounded-[20px] py-[15px] px-[40px] cursor-pointer">
                                         <span>Book Now</span>
                                         <svg class="w-[20px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M598.6 342.6C611.1 330.1 611.1 309.8 598.6 297.3L470.6 169.3C458.1 156.8 437.8 156.8 425.3 169.3C412.8 181.8 412.8 202.1 425.3 214.6L498.7 288L64 288C46.3 288 32 302.3 32 320C32 337.7 46.3 352 64 352L498.7 352L425.3 425.4C412.8 437.9 412.8 458.2 425.3 470.7C437.8 483.2 458.1 483.2 470.6 470.7L598.6 342.7z"/></svg>
                                     </a>
@@ -631,11 +660,7 @@
             <div class="section-body">
                 <div class="grid grid-cols-1 xl:grid-cols-2 gap-[50px]">
                     <div class="man-behind flex flex-col gap-[30px]">
-                        <div class="basic-info flex items-center flex-col gap-[40px]">
-                            <h4 class="font-montserrat font-bold text-green text-[35px]">Peter Kinnaird</h4>
-                            <img class="h-[350px]" src="/wp-content/themes/nichebusiness/assets/images/member-peter.png" alt="Peter Kinnaird" />
-                        </div>
-                        <div class="other-info flex flex-col gap-[30px]">
+                        <div class="sticky top-[30%] other-info flex flex-col gap-[30px]">
                             <div class="info-item flex flex-col gap-[20px]">
                                 <h5 class="font-montserrat font-bold text-dark-blue">Guiding Our Clients to Master Their Niche with Expertise and Passion</h5>
                                 <div class="description flex flex-col gap-[20px]">
@@ -654,6 +679,17 @@
                         <div class="flex flex-col gap-[20px]">
                             <h3 class="font-bold text-[25px] text-center xl:hidden">The Team</h3>
                             <div class="members flex flex-col gap-[20px] w-full">
+                                <div class="member flex items-center gap-[30px] w-full">
+                                    <div class="member-headshot w-[150px]">
+                                        <img src="/wp-content/themes/nichebusiness/assets/images/member-peter.png" alt="Member Peter" />
+                                    </div>
+                                    <div class="member-info w-[calc(100%-150px)]">
+                                        <h5 class="font-montserrat font-bold text-[25px]">Peter</h5>
+                                        <div class="description">
+                                            Our thought leadership person who is the Co-ordinator of a client's journey.
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="member flex items-center gap-[30px] w-full">
                                     <div class="member-headshot w-[150px]">
                                         <img src="/wp-content/themes/nichebusiness/assets/images/member-ari.png" alt="Member Ari" />
@@ -741,7 +777,7 @@
     </div>
 </section>
 
-<section id="partners" class="py-[100px] px-[20px]">
+<section id="partners" class="py-[100px] px-[20px] overflow-x-hidden">
     <div class="container max-w-[1600px] mx-auto">
         <div class="flex flex-col gap-[50px] w-full">
             <div class="section-header">
