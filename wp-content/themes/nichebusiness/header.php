@@ -25,7 +25,9 @@
 <header id="header" class="p-[20px] w-full fixed top-0 z-10">
     <div class="flex gap-[30px] md:gap-0 justify-between">
         <div class="logo bg-white shadow px-[20px] md:px-[30px] py-[20px] rounded-br-[30px]">
-            <img class="max-h-[50px] md:max-h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/logo.png" alt="Niche Business Logo" />
+            <a href="<?= site_url() ?>">
+                <img class="max-h-[50px] md:max-h-[70px]" src="/wp-content/themes/nichebusiness/assets/images/logo.png" alt="Niche Business Logo" />
+            </a>
         </div>
         <div class="navigation bg-white shadow rounded-bl-[30px] overflow-hidden h-full">
             <div class="hidden lg:block">
